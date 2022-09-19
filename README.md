@@ -1,7 +1,7 @@
 - 👋 Hi, I’m achira
 - 👀 I’m interested in ... Software development and AI
 - 🌱 I’m currently learning ... software engineering
-- 💞️ I’m looking to collaborate on ... student developers and tech enthusiasts
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... ed127720@students.mu.ac.ke
 
 <!---

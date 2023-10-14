@@ -4,7 +4,7 @@
 - 🐧 Linux Enthusiast
 - 💻 Web Developer
 
-I enjoy coding in Python and Rust, creating web applications with [Quart](https://pypi.org/project/Quart/) on the backend and using HTML, Vanilla JS, and pure CSS for the frontend.
+I enjoy coding in Python and Rust, creating web applications with [Flask](https://pypi.org/project/Flask/) and its upgrade [Quart](https://pypi.org/project/Quart/) for asynchronous programming on the backend, and using HTML, Vanilla JS, and pure CSS for the frontend.
 
 ### 📚 Coding Style:
 

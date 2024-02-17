@@ -4,11 +4,6 @@
 - 🐧 Linux Enthusiast
 - 💻 Web Developer
 
-### 📚 Coding Style:
-
-- For Python, I follow the [PEP 8](https://www.python.org/dev/peps/pep-0008/) style guide.
-- In JavaScript, I adhere to the [semistandard](https://github.com/standard/semistandard) style.
-
 Let's connect and collaborate!
 
 🔗 Connect with me:

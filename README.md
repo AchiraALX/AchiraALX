@@ -4,7 +4,7 @@
 - 🐧 Linux Enthusiast
 - 💻 Web Developer
 
-Let's connect and collaborate!
+Talk mostly AI, Cyber Security and Digital Forensics and Networking. Let's connect and collaborate!
 
 🔗 Connect with me:
 - [GitHub](https://github.com/AchiraALX)

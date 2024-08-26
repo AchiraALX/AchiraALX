@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Jacob!
+## 👋 Hi, I'm Achira!
 
 - 🚀 Python & Rust Developer
 - 🐧 Linux Enthusiast
